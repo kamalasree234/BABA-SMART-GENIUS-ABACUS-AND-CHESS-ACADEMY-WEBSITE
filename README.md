@@ -1,2 +1,5 @@
 # BABA-SMART-GENIUS-ABACUS-AND-CHESS-ACADEMY-WEBSITE
 Baba Smart Genius Abacus &amp; Chess Academy  A responsive and visually appealing landing page designed for the Baba Smart Genius Abacus &amp; Chess Academy. The page features clean layout, clear content visibility, smooth navigation, and various CSS styling techniques including hover effects, transitions, and a well-structured section-based design. 
+
+Check out my Linkedin Profile:https://www.linkedin.com/in/kamalasree-s-b41922260/
+
